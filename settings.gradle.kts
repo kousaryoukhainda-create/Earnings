@@ -9,23 +9,27 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven(url = "https://artifact.bytedance.com/babel/")
         maven(url = "https://developer.huawei.com/repo/")
     }
 }
 
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
         google()
         mavenCentral()
-        maven(url = "https://artifactory.applovin.com/artifactory/com.applovin/")
-        maven(url = "https://android-sdk.is.com/")
-        maven(url = "https://repo.adsterra.com/repository/maven-public/")
-        maven(url = "https://mvn.singular.net/adk")
-        maven(url = "https://maven.appsflyer.com/android")
         maven(url = "https://developer.huawei.com/repo/")
         maven(url = "https://jitpack.io")
+        // AppLovin - using Maven Central when available
+        maven(url = "https://artifactory.applovin.com/artifactory/")
+        // Fyber/Inneractive
+        maven(url = "https://android-sdk.is.com/")
+        // Singular
+        maven(url = "https://mvn.singular.net/adk")
+        // AppsFlyer
+        maven(url = "https://maven.appsflyer.com/android")
+        // DigitalTurbine
+        maven(url = "https://digitalturbine.jfrog.io/artifactory/")
     }
 }
 
