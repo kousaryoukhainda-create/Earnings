@@ -6,7 +6,7 @@ plugins {
     id("com.google.gms.google-services")
     id("com.google.firebase.crashlytics")
     id("com.google.firebase.firebase-perf")
-    id("com.huawei.agconnect")
+    // id("com.huawei.agconnect") // Temporarily disabled - plugin not found
 }
 
 // Load secrets.properties if it exists
@@ -92,7 +92,6 @@ android {
             isEnable = true
             reset()
             include("mdpi", "hdpi", "xhdpi", "xxhdpi", "xxxhdpi")
-            isCompatibleScreens = true
         }
         abi {
             isEnable = true

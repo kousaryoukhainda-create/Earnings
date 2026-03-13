@@ -5,7 +5,7 @@ plugins {
     id("com.google.gms.google-services") version "4.4.4" apply false
     id("com.google.firebase.crashlytics") version "2.9.9" apply false
     id("com.google.firebase.firebase-perf") version "1.4.2" apply false
-    id("com.huawei.agconnect") version "1.9.1.300" apply false
+    // id("com.huawei.agconnect") version "1.9.1.300" apply false // Temporarily disabled - plugin not found
 }
 
 tasks.register("clean", Delete::class) {

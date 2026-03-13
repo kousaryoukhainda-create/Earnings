@@ -1,0 +1,54 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Create secrets.properties
+        run: |
+          cat > secrets.properties << EOF
+          appLovinSdkKey=YOUR_APPLOVIN_SDK_KEY_HERE
+          appsFlyerDevKey=YOUR_APPSFLYER_DEV_KEY_HERE
+          singularAppId=YOUR_SINGULAR_APP_ID_HERE
+          singularAppKey=YOUR_SINGULAR_APP_KEY_HERE
+          adMobInterstitialAdUnitId=ca-app-pub-394499510306/1234567890
+          adMobBannerAdUnitId=ca-app-pub-394499510306/1234567890
+          adMobRewardedAdUnitId=ca-app-pub-394499510306/1234567890
+          adMobNativeAdUnitId=ca-app-pub-394499510306/1234567890
+          fyberAppId=YOUR_FYBER_APP_ID_HERE
+          digitalTurbineApiKey=YOUR_DIGITALTURBINE_API_KEY_HERE
+          huaweiClientId=YOUR_HUAWEI_CLIENT_ID_HERE
+          EOF
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build Release APK
+        run: ./gradlew assembleRelease
+
+      - name: Upload APK Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-apk
+          path: app/build/outputs/apk/release/
+          retention-days: 30
