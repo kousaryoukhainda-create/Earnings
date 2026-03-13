@@ -1,0 +1,7 @@
+package com.google.android.gms.internal.gtm;
+/* loaded from: classes3.dex */
+public final class zzsc extends Exception {
+    public zzsc(String str) {
+        super(str);
+    }
+}

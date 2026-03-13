@@ -1,0 +1,212 @@
+{
+  "es-ES": {
+    "language": "Spanish",
+    "disclaimer": "Aviso de Traducción de IA\nEsta aplicación utiliza inteligencia artificial para traducir el contenido. Las traducciones son solo para fines de conveniencia y pueden contener errores, incluidas cifras financieras o tasas de minería incorrectas.\n\nLa versión en inglés de esta aplicación es la única versión oficial y legalmente vinculante. Si un texto traducido promete rendimientos específicos, ganancias o difiere del texto en inglés, la versión en inglés prevalecerá.",
+    "agree_button": "Entendido y Acepto"
+  },
+  "zh-CN": {
+    "language": "Mandarin Chinese (Simplified)",
+    "disclaimer": "AI 翻译免责声明\n本应用程序使用人工智能翻译内容。翻译仅供参考，可能包含错误，包括错误的财务数据或挖矿率。\n\n本应用程序的英语版本是唯一具有法律约束力的官方版本。如果翻译文本承诺特定回报、利润或与英语文本有出入，以英语文本为准。",
+    "agree_button": "我理解并同意"
+  },
+  "en-US": {
+    "language": "English",
+    "disclaimer": "AI Translation Notice\nThis app uses artificial intelligence to translate content. Translations are for convenience only and may contain errors, including incorrect financial figures or mining rates.\n\nThe English version of this app is the only official and legally binding version. If a translated text promises specific returns, profits, or differs from the English text, the English version prevails.",
+    "agree_button": "I Understand and Agree"
+  },
+  "hi-IN": {
+    "language": "Hindi",
+    "disclaimer": "AI अनुवाद सूचना\nयह ऐप सामग्री का अनुवाद करने के लिए आर्टिफिशियल इंटेलिजेंस का उपयोग करता है। अनुवाद केवल सुविधा के लिए हैं और इसमें गलत वित्तीय आंकड़े या खनन दर सहित त्रुटियां हो सकती हैं।\n\nइस ऐप का अंग्रेजी संस्करण ही एकमात्र आधिकारिक और कानूनी रूप से बाध्यकारी संस्करण है। यदि कोई अनुवादित पाठ विशिष्ट रिटर्न या लाभ का वादा करता है, या अंग्रेजी पाठ से भिन्न है, तो अंग्रेजी संस्करण मान्य होगा।",
+    "agree_button": "मैं समझता/समझती हूँ और सहमत हूँ"
+  },
+  "bn-BD": {
+    "language": "Bengali",
+    "disclaimer": "AI অনুবাদ বিজ্ঞপ্তি\nএই অ্যাপটি বিষয়বস্তু অনুবাদ করতে কৃত্রিম বুদ্ধিমত্তা ব্যবহার করে। অনুবাদগুলি শুধুমাত্র সুবিধার জন্য এবং এতে ভুল আর্থিক পরিসংখ্যান বা মাইনিং রেট সহ ত্রুটি থাকতে পারে।\n\nএই অ্যাপটির ইংরেজি সংস্করণটিই একমাত্র অফিসিয়াল এবং আইনত বাধ্যতামূলক সংস্করণ। যদি কোনো অনূদিত পাঠ্য নির্দিষ্ট রিটার্ন বা লাভের প্রতিশ্রুতি দেয়, অথবা ইংরেজি পাঠ্য থেকে ভিন্ন হয়, তবে ইংরেজি সংস্করণটি প্রাধান্য পাবে।",
+    "agree_button": "আমি বুঝেছি এবং সম্মত"
+  },
+  "pt-PT": {
+    "language": "Portuguese",
+    "disclaimer": "Aviso de Tradução por IA\nEsta aplicação utiliza inteligência artificial para traduzir o conteúdo. As traduções servem apenas para conveniência e podem conter erros, incluindo números financeiros ou taxas de mineração incorretas.\n\nA versão em inglês desta aplicação é a única versão oficial e legalmente vinculativa. Se um texto traduzido prometer retornos específicos, lucros ou diferir do texto em inglês, a versão em inglês prevalecerá.",
+    "agree_button": "Entendi e Concordo"
+  },
+  "ru-RU": {
+    "language": "Russian",
+    "disclaimer": "Уведомление об ИИ-переводе\nВ этом приложении используется искусственный интеллект для перевода контента. Переводы предоставляются исключительно для удобства и могут содержать ошибки, включая неверные финансовые показатели или скорость майнинга.\n\nАнглийская версия этого приложения является единственной официальной и юридически обязательной версией. Если переведенный текст обещает определенную прибыль или отличается от английского текста, английская версия имеет преимущественную силу.",
+    "agree_button": "Я понимаю и соглашаюсь"
+  },
+  "ja-JP": {
+    "language": "Japanese",
+    "disclaimer": "AI翻訳に関する通知\n本アプリはコンテンツの翻訳に人工知能を使用しています。翻訳は利便性のためにのみ提供されており、誤った財務数値やマイニングレートなどの誤りが含まれる可能性があります。\n\n本アプリの英語版のみが公式かつ法的拘束力のあるバージョンです。翻訳されたテキストが特定の利益やリターンを約束している場合、または英文と異なる場合は、英語版が優先されます。",
+    "agree_button": "理解して同意します"
+  },
+  "pa-IN": {
+    "language": "Western Punjabi",
+    "disclaimer": "AI ਅਨੁਵਾਦ ਨੋਟਿਸ\nਇਹ ਐਪ ਸਮੱਗਰੀ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਆਰਟੀਫਿਸ਼ੀਅਲ ਇੰਟੈਲੀਜੈਂਸ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ। ਅਨੁਵਾਦ ਸਿਰਫ਼ ਸਹੂਲਤ ਲਈ ਹਨ ਅਤੇ ਇਹਨਾਂ ਵਿੱਚ ਗਲਤੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ, ਜਿਸ ਵਿੱਚ ਗਲਤ ਵਿੱਤੀ ਅੰਕੜੇ ਜਾਂ ਮਾਈਨਿੰਗ ਦਰਾਂ ਸ਼ਾਮਲ ਹਨ।\n\nਇਸ ਐਪ ਦਾ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਹੀ ਇੱਕੋ-ਇੱਕ ਅਧਿਕਾਰਤ ਅਤੇ ਕਾਨੂੰਨੀ ਤੌਰ 'ਤੇ ਅਸਰਦਾਰ ਸੰਸਕਰਣ ਹੈ। ਜੇਕਰ ਕੋਈ ਅਨੁਵਾਦਿਤ ਟੈਕਸਟ ਖਾਸ ਰਿਟਰਨ, ਮੁਨਾਫੇ ਦਾ ਵਾਅਦਾ ਕਰਦਾ ਹੈ, ਜਾਂ ਅੰਗਰੇਜ਼ੀ ਟੈਕਸਟ ਤੋਂ ਵੱਖਰਾ ਹੈ, ਤਾਂ ਅੰਗਰੇਜ਼ੀ ਸੰਸਕਰਣ ਹੀ ਮੰਨਿਆ ਜਾਵੇਗਾ।",
+    "agree_button": "ਮੈਂ ਸਮਝਦਾ/ਸਮਝਦੀ ਹਾਂ ਅਤੇ ਸਹਿਮਤ ਹਾਂ"
+  },
+  "mr-IN": {
+    "language": "Marathi",
+    "disclaimer": "AI भाषांतर सूचना\nहे ॲप मजकूर अनुवादित करण्यासाठी कृत्रिम बुद्धिमत्तेचा वापर करते. भाषांतरे केवळ सोयीसाठी आहेत आणि त्यात चुकीचे आर्थिक आकडे किंवा माइनिंग रेट्ससह त्रुटी असू शकतात.\n\nया ॲपची इंग्रजी आवृत्ती ही एकमेव अधिकृत आणि कायदेशीररित्या बंधनकारक आवृत्ती आहे. जर भाषांतरित मजकूर विशिष्ट परतावा, नफा यांचे वचन देत असेल किंवा इंग्रजी मजकुरापेक्षा वेगळा असेल, तर इंग्रजी आवृत्ती ग्राह्य धरली जाईल.",
+    "agree_button": "मला समजले आणि मी सहमत आहे"
+  },
+  "te-IN": {
+    "language": "Telugu",
+    "disclaimer": "AI అనువాద గమనిక\nఈ యాప్ కంటెంట్‌ను అనువదించడానికి కృత్రిమ మేధస్సును ఉపయోగిస్తుంది. అనువాదాలు సౌలభ్యం కోసం మాత్రమే మరియు తప్పు ఆర్థిక గణాంకాలు లేదా మైనింగ్ రేట్లతో సహా లోపాలను కలిగి ఉండవచ్చు.\n\nఈ యాప్ యొక్క ఆంగ్ల వెర్షన్ మాత్రమే ఏకైక అధికారిక మరియు చట్టబద్ధమైన వెర్షన్. అనువదించబడిన వచనం నిర్దిష్ట రాబడిని, లాభాలను వాగ్దానం చేస్తే లేదా ఆంగ్ల వచనం నుండి భిన్నంగా ఉంటే, ఆంగ్ల వెర్షన్ చెల్లుతుంది.",
+    "agree_button": "నేను అర్థం చేసుకున్నాను మరియు అంగీకరిస్తున్నాను"
+  },
+  "tr-TR": {
+    "language": "Turkish",
+    "disclaimer": "Yapay Zeka Çeviri Bildirimi\nBu uygulama içeriği çevirmek için yapay zeka kullanır. Çeviriler yalnızca kolaylık sağlamak amaçlıdır ve hatalı finansal rakamlar veya madencilik oranları dahil olmak üzere hatalar içerebilir.\n\nBu uygulamanın İngilizce sürümü tek resmi ve yasal olarak bağlayıcı sürümdür. Çevrilmiş bir metin belirli getiriler veya karlar vaat ediyorsa ya da İngilizce metinden farklıysa, İngilizce sürüm esas alınır.",
+    "agree_button": "Anlıyorum ve Kabul Ediyorum"
+  },
+  "ko-KR": {
+    "language": "Korean",
+    "disclaimer": "AI 번역 고지\n이 앱은 인공지능을 사용하여 콘텐츠를 번역합니다. 번역은 편의를 위해서만 제공되며 잘못된 재무 수치나 채굴 속도 등 오류가 포함될 수 있습니다.\n\n이 앱의 영문 버전만이 유일한 공식적이고 법적 구속력이 있는 버전입니다. 번역된 텍스트가 특정 수익이나 이익을 약속하거나 영문 텍스트와 다른 경우, 영문 버전이 우선합니다.",
+    "agree_button": "이해하고 동의합니다"
+  },
+  "fr-FR": {
+    "language": "French",
+    "disclaimer": "Avis sur la traduction par IA\nCette application utilise l'intelligence artificielle pour traduire le contenu. Les traductions sont fournies à titre indicatif et peuvent contenir des erreurs, y compris des chiffres financiers ou des taux de minage incorrects.\n\nLa version anglaise de cette application est la seule version officielle et juridiquement contraignante. Si un texte traduit promet des rendements spécifiques, des profits ou diffère du texte anglais, la version anglaise prévaudra.",
+    "agree_button": "J'ai compris et j'accepte"
+  },
+  "de-DE": {
+    "language": "German",
+    "disclaimer": "KI-Übersetzungshinweis\nDiese App verwendet künstliche Intelligenz zur Übersetzung von Inhalten. Übersetzungen dienen nur der Bequemlichkeit und können Fehler enthalten, einschließlich falscher Finanzzahlen oder Mining-Raten.\n\nDie englische Version dieser App ist die einzige offizielle und rechtlich bindende Version. Sollte ein übersetzter Text spezifische Renditen oder Gewinne versprechen oder vom englischen Text abweichen, hat die englische Version Vorrang.",
+    "agree_button": "Ich verstehe und stimme zu"
+  },
+  "vi-VN": {
+    "language": "Vietnamese",
+    "disclaimer": "Thông báo dịch thuật AI\nỨng dụng này sử dụng trí tuệ nhân tạo để dịch nội dung. Các bản dịch chỉ nhằm mục đích thuận tiện và có thể chứa lỗi, bao gồm số liệu tài chính hoặc tỷ lệ khai thác không chính xác.\n\nPhiên bản tiếng Anh của ứng dụng này là phiên bản chính thức và có giá trị pháp lý duy nhất. Nếu văn bản dịch hứa hẹn lợi nhuận cụ thể hoặc khác với văn bản tiếng Anh, bản tiếng Anh sẽ được ưu tiên áp dụng.",
+    "agree_button": "Tôi hiểu và đồng ý"
+  },
+  "ta-IN": {
+    "language": "Tamil",
+    "disclaimer": "AI மொழிபெயர்ப்பு அறிவிப்பு\nஇந்த செயலி உள்ளடக்கத்தை மொழிபெயர்க்க செயற்கை நுண்ணறிவைப் பயன்படுத்துகிறது. மொழிபெயர்ப்புகள் வசதிக்காக மட்டுமே மற்றும் தவறான நிதி புள்ளிவிவரங்கள் அல்லது மைனிங் விகிதங்கள் உட்பட பிழைகளைக் கொண்டிருக்கலாம்.\n\nஇந்த செயலியின் ஆங்கிலப் பதிப்பு மட்டுமே அதிகாரப்பூர்வ மற்றும் சட்டப்பூர்வமாக பிணைக்கக்கூடிய பதிப்பாகும். மொழிபெயர்க்கப்பட்ட உரை குறிப்பிட்ட வருமானம், லாபம் ஆகியவற்றை உறுதியளித்தால் அல்லது ஆங்கில உரையில் இருந்து மாறுபட்டால், ஆங்கிலப் பதிப்பே மேலோங்கும்.",
+    "agree_button": "நான் புரிந்து கொண்டு ஏற்கிறேன்"
+  },
+  "zh-HK": {
+    "language": "Yue Chinese (Cantonese)",
+    "disclaimer": "AI 翻譯免責聲明\n本應用程式使用人工智能翻譯內容。翻譯只供參考，可能會有錯誤，包括錯誤嘅財務數據或挖礦率。\n\n本應用程式嘅英文版本係唯一具有法律約束力嘅官方版本。如果翻譯文本承諾特定回報、利潤或同英文文本有出入，一切以英文文本為準。",
+    "agree_button": "我明白並同意"
+  },
+  "ur-PK": {
+    "language": "Urdu",
+    "disclaimer": "AI ترجمہ کا نوٹس\nیہ ایپ مواد کا ترجمہ کرنے کے لیے مصنوعی ذہانت کا استعمال کرتی ہے۔ ترجمے صرف سہولت کے لیے ہیں اور ان میں غلطیاں ہو سکتی ہیں، بشمول غلط مالیاتی اعداد و شمار یا مائننگ ریٹس۔\n\nاس ایپ کا انگریزی ورژن ہی واحد سرکاری اور قانونی طور پر پابند ورژن ہے۔ اگر ترجمہ شدہ متن مخصوص منافع کا وعدہ کرتا ہے، یا انگریزی متن سے مختلف ہے، تو انگریزی ورژن غالب ہوگا۔",
+    "agree_button": "میں سمجھتا/سمجھتی ہوں اور متفق ہوں"
+  },
+  "id-ID": {
+    "language": "Indonesian",
+    "disclaimer": "Pemberitahuan Terjemahan AI\nAplikasi ini menggunakan kecerdasan buatan untuk menerjemahkan konten. Terjemahan hanya untuk kenyamanan dan mungkin mengandung kesalahan, termasuk angka keuangan atau tingkat penambangan yang tidak akurat.\n\nVersi bahasa Inggris dari aplikasi ini adalah satu-satunya versi resmi dan mengikat secara hukum. Jika teks terjemahan menjanjikan pengembalian tertentu, keuntungan, atau berbeda dari teks bahasa Inggris, maka versi bahasa Inggris yang berlaku.",
+    "agree_button": "Saya Mengerti dan Setuju"
+  },
+  "it-IT": {
+    "language": "Italian",
+    "disclaimer": "Avviso Traduzione AI\nQuesta app utilizza l'intelligenza artificiale per tradurre i contenuti. Le traduzioni sono fornite solo per comodità e possono contenere errori, inclusi dati finanziari o tassi di mining non corretti.\n\nLa versione inglese di questa app è l'unica versione ufficiale e legalmente vincolante. Se un testo tradotto promette rendimenti specifici, profitti o differisce dal testo inglese, prevale la versione inglese.",
+    "agree_button": "Ho capito e accetto"
+  },
+  "ar-EG": {
+    "language": "Egyptian Arabic",
+    "disclaimer": "إشعار الترجمة بالذكاء الاصطناعي\nيستخدم هذا التطبيق الذكاء الاصطناعي لترجمة المحتوى. الترجمات هي لأغراض التسهيل فقط وقد تحتوي على أخطاء، بما في ذلك أرقام مالية أو معدلات تعدين غير صحيحة.\n\nالنسخة الإنجليزية من هذا التطبيق هي النسخة الرسمية والملزمة قانونًا الوحيدة. في حالة وجود أي تعارض أو إذا وعد النص المترجم بعوائد أو أرباح محددة أو اختلف عن النص الإنجليزي، فإن النسخة الإنجليزية هي التي تسود.",
+    "agree_button": "أفهم وأوافق"
+  },
+  "gu-IN": {
+    "language": "Gujarati",
+    "disclaimer": "AI અનુવાદ સૂચના\nઆ એપ્લિકેશન સામગ્રીનો અનુવાદ કરવા માટે કૃત્રિમ બુદ્ધિનો ઉપયોગ કરે છે. અનુવાદો માત્ર સુવિધા માટે છે અને તેમાં ખોટા નાણાકીય આંકડા અથવા માઇનિંગ રેટ્સ સહિતની ભૂલો હોઈ શકે છે.\n\nઆ એપ્લિકેશનનું અંગ્રેજી સંસ્કરણ એકમાત્ર સત્તાવાર અને કાયદાકીય રીતે બંધનકર્તા સંસ્કરણ છે. જો અનુવાદિત ટેક્સ્ટ ચોક્કસ વળતર, નફાનું વચન આપે છે અથવા અંગ્રેજી ટેક્સ્ટથી અલગ છે, તો અંગ્રેજી સંસ્કરણ માન્ય રહેશે.",
+    "agree_button": "હું સમજું છું અને સંમત છું"
+  },
+  "fa-IR": {
+    "language": "Iranian Persian",
+    "disclaimer": "اعلامیه ترجمه هوش مصنوعی\nاین برنامه از هوش مصنوعی برای ترجمه محتوا استفاده می‌کند. ترجمه‌ها صرفاً برای سهولت ارائه می‌شوند و ممکن است حاوی خطا باشند، از جمله ارقام مالی یا نرخ‌های استخراج نادرست.\n\nنسخه انگلیسی این برنامه تنها نسخه رسمی و قانونی الزام‌آور است. اگر متن ترجمه‌شده وعده بازده یا سود خاصی بدهد یا با متن انگلیسی متفاوت باشد، نسخه انگلیسی ملاک عمل خواهد بود.",
+    "agree_button": "می‌فهمم و موافقم"
+  },
+  "ca-ES": {
+    "language": "Catalan",
+    "disclaimer": "Avís de Traducció per IA\nAquesta aplicació utilitza intel·ligència artificial per traduir el contingut. Les traduccions són només per a fins de conveniència i poden contenir errors, incloses xifres financeres o taxes de mineria incorrectes.\n\nLa versió en anglès d'aquesta aplicació és l'única versió oficial i legalmente vinculant. Si un text traduït promet rendiments específics, guanys o difereix del text en anglès, la versió en anglès prevaldrà.",
+    "agree_button": "Entesos i d'acord"
+  },
+  "zh-TW": {
+    "language": "Chinese (Traditional)",
+    "disclaimer": "AI 翻譯免責聲明\n本應用程式使用人工智能翻譯內容。翻譯僅供參考，可能包含錯誤，包括錯誤的財務數據或挖礦率。\n\n本應用程式的英語版本是唯一具有法律約束力的官方版本。如果翻譯文本承諾特定回報、利潤或與英語文本有出入，以英語文本為準。",
+    "agree_button": "我理解並同意"
+  },
+  "hr-HR": {
+    "language": "Croatian",
+    "disclaimer": "Obavijest o AI prijevodu\nOva aplikacija koristi umjetnu inteligenciju za prevođenje sadržaja. Prijevodi su samo radi praktičnosti i mogu sadržavati pogreške, uključujući netočne financijske podatke ili stope rudarenja.\n\nEngleska verzija ove aplikacije jedina je službena i pravno obvezujuća verzija. Ako prevedeni tekst obećava određene povrate, dobit ili se razlikuje od engleskog teksta, mjerodavna je engleska verzija.",
+    "agree_button": "Razumijem i slažem se"
+  },
+  "cs-CZ": {
+    "language": "Czech",
+    "disclaimer": "Upozornění na AI překlad\nTato aplikace využívá k překladu obsahu umělou inteligenci. Překlady slouží pouze pro pohodlí a mohou obsahovat chyby, včetně nesprávných finančních údajů nebo těžebních sazeb.\n\nAnglická verze této aplikace je jedinou oficiální a právně závaznou verzí. Pokud přeložený text slibuje konkrétní výnosy, zisky nebo se liší od anglického textu, má přednost anglická verze.",
+    "agree_button": "Rozumím a souhlasím"
+  },
+  "da-DK": {
+    "language": "Danish",
+    "disclaimer": "AI-oversættelsesmeddelelse\nDenne app bruger kunstig intelligens til at oversætte indhold. Oversættelser er kun til bekvemmelighed og kan indeholde fejl, herunder forkerte økonomiske tal eller mining-satser.\n\nDen engelske version af denne app er den eneste officielle og juridisk bindende version. Hvis en oversat tekst lover specifikt afkast, overskud eller afviger fra den engelske tekst, har den engelske version forrang.",
+    "agree_button": "Jeg forstår og accepterer"
+  },
+  "nl-NL": {
+    "language": "Dutch",
+    "disclaimer": "AI-vertalingsbericht\nDeze app gebruikt kunstmatige intelligentie om inhoud te vertalen. Vertalingen zijn uitsluitend voor het gemak en kunnen fouten bevatten, waaronder onjuiste financiële cijfers of mining-tarieven.\n\nDe Engelse versie van deze app is de enige officiële en juridisch bindende versie. Indien een vertaalde tekst specifieke rendementen of winsten belooft of afwijkt van de Engelse tekst, prevaleert de Engelse versie.",
+    "agree_button": "Ik begrijp het en ga akkoord"
+  },
+  "fi-FI": {
+    "language": "Finnish",
+    "disclaimer": "Tekoälykäännösilmoitus\nTämä sovellus käyttää tekoälyä sisällön kääntämiseen. Käännökset ovat vain mukavuussyistä ja saattavat sisältää virheitä, mukaan lukien virheellisiä talouslukuja tai louhintanopeuksia.\n\nTämän sovelluksen englanninkielinen versio on ainoa virallinen ja oikeudellisesti sitova versio. Jos käännetty teksti lupaa tiettyjä tuottoja tai voittoja tai eroaa englanninkielisestä tekstistä, englanninkielinen versio on ensisijainen.",
+    "agree_button": "Ymmärrän ja hyväksyn"
+  },
+  "el-GR": {
+    "language": "Greek",
+    "disclaimer": "Ειδοποίηση μετάφρασης AI\nΑυτή η εφαρμογή χρησιμοποιεί τεχνητή νοημοσύνη για τη μετάφραση περιεχομένου. Οι μεταφράσεις παρέχονται μόνο για διευκόλυνση και ενδέχεται να περιέχουν σφάλματα, συμπεριλαμβανομένων λανθασμένων οικονομικών στοιχείων ή ποσοστών εξόρυξης.\n\nΗ αγγλική έκδοση αυτής της εφαρμογής είναι η μόνη επίσημη και νομικά δεσμευτική έκδοση. Εάν ένα μεταφρασμένο κείμενο υπόσχεται συγκεκριμένες αποδόσεις, κέρδη ή διαφέρει από το αγγλικό κείμενο, υπερισχύει η αγγλική έκδοση.",
+    "agree_button": "Κατανοώ και συμφωνώ"
+  },
+  "he-IL": {
+    "language": "Hebrew",
+    "disclaimer": "הודעת תרגום בינה מלאכותית\nאפליקציה זו משתמשת בבינה מלאכותית לתרגום תוכן. התרגומים נועדו לנוחות בלבד ועשויים להכיל שגיאות, כולל נתונים פיננסיים שגויים או שיעורי כרייה לא מדויקים.\n\nהגרסה האנגלית של אפליקציה זו היא הגרסה הרשמית והמחייבת היחידה מבחינה משפטית. אם טקסט מתורגם מבטיח תשואות מסוימות, רווחים או שונה מהטקסט באנגלית, הגרסה האנגלית היא הקובעת.",
+    "agree_button": "אני מבין/ה ומסכים/ה"
+  },
+  "hu-HU": {
+    "language": "Hungarian",
+    "disclaimer": "AI fordítási figyelmeztetés\nEz az alkalmazás mesterséges intelligenciát használ a tartalom fordításához. A fordítások csak kényelmi célokat szolgálnak, és hibákat tartalmazhatnak, beleértve a téves pénzügyi adatokat vagy bányászati rátákat.\n\nAz alkalmazás angol nyelvű változata az egyetlen hivatalos és jogilag kötelező érvényű változat. Ha egy lefordított szöveg konkrét hozamot vagy nyereséget ígér, vagy eltér az angol szövegtől, az angol nyelvű változat az irányadó.",
+    "agree_button": "Értem és elfogadom"
+  },
+  "ms-MY": {
+    "language": "Malay",
+    "disclaimer": "Notis Terjemahan AI\nAplikasi ini menggunakan kecerdasan buatan untuk menterjemah kandungan. Terjemahan adalah untuk kemudahan sahaja dan mungkin mengandungi ralat, termasuk angka kewangan atau kadar perlombongan yang tidak tepat.\n\nVersi bahasa Inggeris aplikasi ini adalah satu-satunya versi rasmi dan sah di sisi undang-undang. Jika teks terjemahan menjanjikan pulangan tertentu, keuntungan, atau berbeza daripada teks bahasa Inggeris, versi bahasa Inggeris akan diguna pakai.",
+    "agree_button": "Saya Faham dan Setuju"
+  },
+  "no-NO": {
+    "language": "Norwegian",
+    "disclaimer": "AI-oversettelsesvarsel\nDenne appen bruker kunstig intelligens for å oversette innhold. Oversettelser er kun for bekvemmelighet og kan inneholde feil, inkludert feilaktige finansielle tall eller mining-hastigheter.\n\nDen engelske versjonen av denne appen er den eneste offisielle og juridisk bindende versjonen. Hvis en oversatt tekst lover spesifikk avkastning, fortjeneste eller avviker fra den engelske teksten, er det den engelske versjonen som gjelder.",
+    "agree_button": "Jeg forstår og godtar"
+  },
+  "pl-PL": {
+    "language": "Polish",
+    "disclaimer": "Powiadomienie o tłumaczeniu AI\nTa aplikacja używa sztucznej inteligencji do tłumaczenia treści. Tłumaczenia służą wyłącznie celom informacyjnym i mogą zawierać błędy, w tym nieprawidłowe dane finansowe lub stawki wydobycia.\n\nAngielska wersja tej aplikacji jest jedyną oficjalną i prawnie wiążącą wersją. Jeśli przetłumaczony tekst obiecuje określone zwroty, zyski lub różni się od tekstu angielskiego, wersja angielska jest rozstrzygająca.",
+    "agree_button": "Rozumiem i akceptuję"
+  },
+  "ro-RO": {
+    "language": "Romanian",
+    "disclaimer": "Notificare traducere AI\nAceastă aplicație utilizează inteligența artificială pentru a traduce conținutul. Traducerile sunt doar pentru comoditate și pot conține erori, inclusiv cifre financiare sau rate de minerit incorecte.\n\nVersiunea în limba engleză a acestei aplicații este singura versiune oficială și obligatorie din punct de vedere legal. În cazul în care un text tradus promite randamente specifice, profituri sau diferă de textul în limba engleză, versiunea în limba engleză prevalează.",
+    "agree_button": "Înțeleg și sunt de acord"
+  },
+  "sk-SK": {
+    "language": "Slovak",
+    "disclaimer": "Upozornenie na AI preklad\nTáto aplikácia využíva na preklad obsahu umelú inteligenciu. Preklady slúžia len pre pohodlie a môžu obsahovať chyby, vrátane nesprávnych finančných údajov alebo ťažobných sadzieb.\n\nAnglická verzia tejto aplikácie je jedinou oficiálnou a právne záväznou verziou. Ak preložený text sľubuje konkrétne výnosy, zisky alebo sa líši od anglického textu, má prednosť anglická verzia.",
+    "agree_button": "Rozumiem a súhlasím"
+  },
+  "sv-SE": {
+    "language": "Swedish",
+    "disclaimer": "AI-översättningsmeddelande\nDenna app använder artificiell intelligens för att översätta innehåll. Översättningar är endast för bekvämlighet och kan innehålla fel, inklusive felaktiga finansiella siffror eller mining-hastigheter.\n\nDen engelska versionen av denna app är den enda officiella och juridiskt bindande versionen. Om en översatt text utlovar specifik avkastning, vinst eller skiljer sig från den engelska texten, gäller den engelska versionen.",
+    "agree_button": "Jag förstår och godkänner"
+  },
+  "th-TH": {
+    "language": "Thai",
+    "disclaimer": "ประกาศเกี่ยวกับการแปลด้วย AI\nแอปนี้ใช้ปัญญาประดิษฐ์ในการแปลเนื้อหา การแปลมีไว้เพื่อความสะดวกเท่านั้นและอาจมีข้อผิดพลาด รวมถึงตัวเลขทางการเงินหรืออัตราการขุดที่ไม่ถูกต้อง\n\nเวอร์ชันภาษาอังกฤษของแอปนี้เป็นเวอร์ชันที่เป็นทางการและมีผลผูกพันตามกฎหมายเพียงเวอร์ชันเดียว หากข้อความที่แปลมีการรับประกันผลตอบแทน กำไร หรือแตกต่างจากข้อความภาษาอังกฤษ ให้ถือเอาเวอร์ชันภาษาอังกฤษเป็นสำคัญ",
+    "agree_button": "ฉันเข้าใจและยอมรับ"
+  },
+  "uk-UA": {
+    "language": "Ukrainian",
+    "disclaimer": "Повідомлення про ШІ-переклад\nЦей додаток використовує штучний інтелект для перекладу контенту. Переклади надаються виключно для зручності та можуть містити помилки, включаючи невірні фінансові показники або швидкість майнінгу.\n\nАнглійська версія цього додатку є єдиною офіційною та юридично обов’язковою версією. Якщо перекладений текст обіцяє певний прибуток або відрізняється від англійського тексту, англійська версія має переважну силу.",
+    "agree_button": "Я розумію і погоджуюсь"
+  }
+}

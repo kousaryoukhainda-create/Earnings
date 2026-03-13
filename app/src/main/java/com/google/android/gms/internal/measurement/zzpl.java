@@ -1,0 +1,7 @@
+package com.google.android.gms.internal.measurement;
+/* loaded from: classes3.dex */
+public interface zzpl {
+    boolean zza();
+
+    boolean zzb();
+}

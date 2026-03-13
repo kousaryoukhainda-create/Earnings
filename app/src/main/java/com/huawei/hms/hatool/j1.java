@@ -1,0 +1,16 @@
+package com.huawei.hms.hatool;
+/* loaded from: classes2.dex */
+public class j1 implements g {
+    private String a;
+    private String b;
+
+    public j1(String str, String str2) {
+        this.a = str;
+        this.b = str2;
+    }
+
+    @Override // java.lang.Runnable
+    public void run() {
+        w0.b(this.a, this.b);
+    }
+}

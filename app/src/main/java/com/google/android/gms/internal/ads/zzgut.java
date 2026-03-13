@@ -1,0 +1,29 @@
+package com.google.android.gms.internal.ads;
+
+import com.google.android.gms.security.ProviderInstaller;
+import java.security.GeneralSecurityException;
+import java.security.Provider;
+/* JADX INFO: Access modifiers changed from: package-private */
+/* loaded from: classes3.dex */
+public final class zzgut implements zzguu {
+    private final zzgve zza;
+
+    public /* synthetic */ zzgut(zzgve zzgveVar, zzguv zzguvVar) {
+        this.zza = zzgveVar;
+    }
+
+    @Override // com.google.android.gms.internal.ads.zzguu
+    public final Object zza(String str) throws GeneralSecurityException {
+        Exception exc = null;
+        for (Provider provider : zzguw.zzb(ProviderInstaller.PROVIDER_NAME, "AndroidOpenSSL", "Conscrypt")) {
+            try {
+                return this.zza.zza(str, provider);
+            } catch (Exception e) {
+                if (exc == null) {
+                    exc = e;
+                }
+            }
+        }
+        throw new GeneralSecurityException("No good Provider found.", exc);
+    }
+}

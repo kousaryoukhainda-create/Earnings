@@ -1,0 +1,17 @@
+package defpackage;
+
+import android.content.res.ColorStateList;
+import android.content.res.Resources;
+import androidx.annotation.NonNull;
+/* renamed from: AW  reason: default package */
+/* loaded from: classes.dex */
+public abstract class AW {
+    public static int a(Resources resources, int i, Resources.Theme theme) {
+        return resources.getColor(i, theme);
+    }
+
+    @NonNull
+    public static ColorStateList b(@NonNull Resources resources, int i, Resources.Theme theme) {
+        return resources.getColorStateList(i, theme);
+    }
+}

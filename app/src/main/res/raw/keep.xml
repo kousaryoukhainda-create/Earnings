@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/envelope,@drawable/raising_hand,@drawable/ic_stat_icon_foreground,@drawable/switch_thumb_material_dark,@drawable/quick_actions"
+    />
