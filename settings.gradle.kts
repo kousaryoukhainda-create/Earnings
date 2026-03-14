@@ -9,10 +9,6 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        // Flutter SDK repository
-        maven {
-            url = uri("https://storage.googleapis.com/download.flutter.io")
-        }
     }
 }
 

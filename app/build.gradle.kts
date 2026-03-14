@@ -6,7 +6,7 @@ plugins {
     id("com.google.gms.google-services")
     id("com.google.firebase.crashlytics")
     id("com.google.firebase.firebase-perf")
-    id("dev.flutter.flutter-gradle-plugin") version "1.0.0"
+    // Flutter Gradle Plugin removed - using Flutter embedding dependencies instead
     // id("com.huawei.agconnect") // Temporarily disabled - plugin not found
 }
 
@@ -213,10 +213,6 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.9.22")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
-
-    // Flutter embedding - required for FlutterActivity
-    implementation("dev.flutter:flutter_embedding:1.0.0")
-    implementation("dev.flutter:flutter_embedding_release:1.0.0")
 
     // Protobuf
     implementation("com.google.protobuf:protobuf-javalite:3.25.1")
