@@ -18,12 +18,12 @@ if (secretsFile.exists()) {
 
 android {
     namespace = "com.ykapps.earnings"
-    compileSdk = 23
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ykapps.earnings"
         minSdk = 23
-        targetSdk = 23
+        targetSdk = 34
         versionCode = 10
         versionName = "1.0.0"
 
