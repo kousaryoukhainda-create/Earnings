@@ -9,7 +9,6 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven(url = "https://developer.huawei.com/repo/")
     }
 }
 
@@ -18,18 +17,15 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven(url = "https://developer.huawei.com/repo/")
-        maven(url = "https://jitpack.io")
-        // AppLovin - using Maven Central when available
-        maven(url = "https://artifactory.applovin.com/artifactory/")
-        // Fyber/Inneractive
-        maven(url = "https://android-sdk.is.com/")
-        // Singular
-        maven(url = "https://mvn.singular.net/adk")
-        // AppsFlyer
-        maven(url = "https://maven.appsflyer.com/android")
-        // DigitalTurbine
-        maven(url = "https://digitalturbine.jfrog.io/artifactory/")
+        // AppsFlyer - available on Maven Central
+        // Additional repositories for ad SDKs (commented out due to access issues)
+        // maven(url = "https://artifactory.applovin.com/artifactory/")
+        // maven(url = "https://android-sdk.is.com/")
+        // maven(url = "https://mvn.singular.net/adk")
+        // maven(url = "https://maven.appsflyer.com/android")
+        // maven(url = "https://digitalturbine.jfrog.io/artifactory/")
+        // maven(url = "https://developer.huawei.com/repo/")
+        // maven(url = "https://jitpack.io")
     }
 }
 

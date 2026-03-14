@@ -411,7 +411,8 @@
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
             android:exported="false"
-            android:theme="@android:style/Theme.Translucent" />
+            android:theme="@android:style/Theme.Translucent"
+            tools:replace="android:configChanges" />
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
@@ -576,7 +577,8 @@
         <service
             android:name="com.google.firebase.sessions.SessionLifecycleService"
             android:enabled="true"
-            android:exported="false" />
+            android:exported="false"
+            tools:replace="android:enabled" />
 
         <!-- Room -->
         <service

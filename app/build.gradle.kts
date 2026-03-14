@@ -22,7 +22,7 @@ android {
 
     defaultConfig {
         applicationId = "com.ykapps.earnings"
-        minSdk = 21
+        minSdk = 23
         targetSdk = 35
         versionCode = 10
         versionName = "1.0.0"
@@ -140,7 +140,7 @@ dependencies {
     implementation("com.google.android.gms:play-services-auth:20.7.0")
     implementation("com.google.android.gms:play-services-location:21.1.0")
     implementation("com.google.android.gms:play-services-appset:16.0.2")
-    implementation("com.google.android.gms:play-services-fido:20.2.0")
+    // implementation("com.google.android.gms:play-services-fido:20.2.0") // Not available in some regions
     implementation("com.google.android.gms:play-services-tagmanager:18.0.3")
     implementation("com.google.android.gms:play-services-analytics:18.0.3")
     implementation("com.google.android.gms:play-services-measurement:21.5.1")
@@ -153,9 +153,9 @@ dependencies {
     implementation("com.google.firebase:firebase-messaging")
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-crashlytics")
-    implementation("com.google.firebase:firebase-performance")
+    // implementation("com.google.firebase:firebase-performance") // Requires additional setup
     implementation("com.google.firebase:firebase-config")
-    implementation("com.google.firebase:firebase-dynamic-links")
+    // implementation("com.google.firebase:firebase-dynamic-links") // Deprecated
     implementation("com.google.firebase:firebase-appcheck")
     implementation("com.google.firebase:firebase-appcheck-playintegrity")
     implementation("com.google.firebase:firebase-installations")
@@ -171,37 +171,37 @@ dependencies {
     // User Messaging Platform (GDPR)
     implementation("com.google.android.ump:user-messaging-platform:2.2.0")
 
-    // AppLovin MAX
-    implementation("com.applovin:applovin-sdk:11.3.3")
-    implementation("com.applovin:applovin-max-sdk:11.3.3")
+    // AppLovin MAX - Commented out due to repository access issues
+    // implementation("com.applovin:applovin-sdk:11.3.3")
+    // implementation("com.applovin:applovin-max-sdk:11.3.3")
 
-    // Fyber FairBid
-    implementation("com.fyber:fairbid-sdk:1.3.17")
-    implementation("com.fyber:inneractive-sdk:8.3.3")
+    // Fyber FairBid - Commented out due to repository access issues
+    // implementation("com.fyber:fairbid-sdk:1.3.17")
+    // implementation("com.fyber:inneractive-sdk:8.3.3")
 
-    // DigitalTurbine
-    implementation("com.digitalturbine.ignite:core:4.6.0")
-    implementation("com.digitalturbine.ignite:advertising:4.6.0")
+    // DigitalTurbine - Commented out due to repository access issues
+    // implementation("com.digitalturbine.ignite:core:4.6.0")
+    // implementation("com.digitalturbine.ignite:advertising:4.6.0")
 
-    // AppsFlyer
+    // AppsFlyer - Available on Maven Central
     implementation("com.appsflyer:af-android-sdk:6.12.0")
     implementation("com.android.installreferrer:installreferrer:2.2")
 
-    // Singular
-    implementation("com.singular.sdk:singular-sdk:12.9.1")
+    // Singular - Commented out due to repository access issues
+    // implementation("com.singular.sdk:singular-sdk:12.9.1")
 
-    // Huawei HMS Core
-    implementation("com.huawei.hms:iap:6.13.0.300")
-    implementation("com.huawei.hms:base:6.11.0.302")
-    implementation("com.huawei.hms:ads-identifier:3.4.62.300")
-    implementation("com.huawei.hms:ads-lite:13.4.62.300")
-    implementation("com.huawei.hms:location:6.3.0.300")
-    implementation("com.huawei.hms:push:6.11.0.300")
-    implementation("com.huawei.hms:hwid:6.11.0.300")
-    implementation("com.huawei.hms:availability:2.0.2.300")
+    // Huawei HMS Core - Commented out due to repository access issues
+    // implementation("com.huawei.hms:iap:6.13.0.300")
+    // implementation("com.huawei.hms:base:6.11.0.302")
+    // implementation("com.huawei.hms:ads-identifier:3.4.62.300")
+    // implementation("com.huawei.hms:ads-lite:13.4.62.300")
+    // implementation("com.huawei.hms:location:6.3.0.300")
+    // implementation("com.huawei.hms:push:6.11.0.300")
+    // implementation("com.huawei.hms:hwid:6.11.0.300")
+    // implementation("com.huawei.hms:availability:2.0.2.300")
 
-    // AGConnect
-    implementation("com.huawei.agconnect:agconnect-core:1.9.1.300")
+    // AGConnect - Commented out due to repository access issues
+    // implementation("com.huawei.agconnect:agconnect-core:1.9.1.300")
 
     // OkHttp
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
