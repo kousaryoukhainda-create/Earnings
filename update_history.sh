@@ -22,9 +22,6 @@ STATUS="${5:-In Progress}"
 LAST_ENTRY=$(grep -oP "## Entry \K[0-9]+" "$HISTORY_FILE" | tail -1)
 NEW_ENTRY=$((LAST_ENTRY + 1))
 
-# Get current date
-DATE=$(date +"%Y-%m-%d")
-
 # Create new entry
 NEW_ENTRY_TEXT="
 ---
@@ -47,18 +44,21 @@ fi
 NEW_ENTRY_TEXT+="- **Status:** $STATUS
 "
 
-# Insert before the last "---" line (before "Last Updated" section)
-# Find line number of last "---" before "Last Updated"
-LAST_SEPARATOR=$(grep -n "^---$" "$HISTORY_FILE" | tail -2 | head -1 | cut -d: -f1)
-
-if [ -n "$LAST_SEPARATOR" ]; then
-    # Split file and insert new entry
-    head -n $LAST_SEPARATOR "$HISTORY_FILE" > /tmp/history_temp.md
-    echo "$NEW_ENTRY_TEXT" >> /tmp/history_temp.md
-    tail -n +$((LAST_SEPARATOR + 1)) "$HISTORY_FILE" >> /tmp/history_temp.md
-    mv /tmp/history_temp.md "$HISTORY_FILE"
-    echo "✓ Entry $NEW_ENTRY added: $TITLE"
+# Check if file has "Last Updated" section
+if grep -q "^## Last Updated:" "$HISTORY_FILE" || grep -q "^---$" "$HISTORY_FILE" | grep -q "Last Updated"; then
+    # Find the last "---" before "Last Updated"
+    LAST_SEPARATOR=$(grep -n "^---$" "$HISTORY_FILE" | tail -1 | cut -d: -f1)
+    if [ -n "$LAST_SEPARATOR" ]; then
+        head -n $((LAST_SEPARATOR - 1)) "$HISTORY_FILE" > /tmp/history_temp.md
+        echo "$NEW_ENTRY_TEXT" >> /tmp/history_temp.md
+        echo "---" >> /tmp/history_temp.md
+        tail -n +$LAST_SEPARATOR "$HISTORY_FILE" >> /tmp/history_temp.md
+        mv /tmp/history_temp.md "$HISTORY_FILE"
+        echo "✓ Entry $NEW_ENTRY added: $TITLE"
+    fi
 else
-    echo "Error: Could not find separator in history file"
-    exit 1
+    # Append to end of file
+    echo "$NEW_ENTRY_TEXT" >> "$HISTORY_FILE"
+    echo "---" >> "$HISTORY_FILE"
+    echo "✓ Entry $NEW_ENTRY added: $TITLE"
 fi

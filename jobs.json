@@ -1,0 +1,41 @@
+{
+  "total_count": 1,
+  "jobs": [
+    {
+      "id": 67065306804,
+      "run_id": 23087002582,
+      "workflow_name": "Build Debug APK",
+      "head_branch": "main",
+      "run_url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/actions/runs/23087002582",
+      "run_attempt": 1,
+      "node_id": "CR_kwDORmWgUs8AAAAPnWdetA",
+      "head_sha": "6828726a43696400894801e87c433c816b948b82",
+      "url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/actions/jobs/67065306804",
+      "html_url": "https://github.com/kousaryoukhainda-create/Earnings/actions/runs/23087002582/job/67065306804",
+      "status": "completed",
+      "conclusion": "failure",
+      "created_at": "2026-03-14T11:26:08Z",
+      "started_at": "2026-03-14T11:26:10Z",
+      "completed_at": "2026-03-14T11:26:13Z",
+      "name": "build",
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "failure",
+          "number": 1,
+          "started_at": "2026-03-14T11:26:11Z",
+          "completed_at": "2026-03-14T11:26:12Z"
+        }
+      ],
+      "check_run_url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/check-runs/67065306804",
+      "labels": [
+        "ubuntu-latest"
+      ],
+      "runner_id": 1000000082,
+      "runner_name": "GitHub Actions 1000000082",
+      "runner_group_id": 0,
+      "runner_group_name": "GitHub Actions"
+    }
+  ]
+}

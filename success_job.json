@@ -1,0 +1,121 @@
+{
+  "total_count": 1,
+  "jobs": [
+    {
+      "id": 67051620677,
+      "run_id": 23081535172,
+      "workflow_name": "Build Debug APK",
+      "head_branch": "main",
+      "run_url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/actions/runs/23081535172",
+      "run_attempt": 1,
+      "node_id": "CR_kwDORmWgUs8AAAAPnJaJRQ",
+      "head_sha": "7f1a364800e2ac7c2928f9a6fcfacb2eddbd3e8a",
+      "url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/actions/jobs/67051620677",
+      "html_url": "https://github.com/kousaryoukhainda-create/Earnings/actions/runs/23081535172/job/67051620677",
+      "status": "completed",
+      "conclusion": "success",
+      "created_at": "2026-03-14T05:37:16Z",
+      "started_at": "2026-03-14T05:37:18Z",
+      "completed_at": "2026-03-14T05:40:36Z",
+      "name": "build",
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 1,
+          "started_at": "2026-03-14T05:37:19Z",
+          "completed_at": "2026-03-14T05:37:21Z"
+        },
+        {
+          "name": "Checkout code",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 2,
+          "started_at": "2026-03-14T05:37:21Z",
+          "completed_at": "2026-03-14T05:37:21Z"
+        },
+        {
+          "name": "Set up JDK 17",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 3,
+          "started_at": "2026-03-14T05:37:21Z",
+          "completed_at": "2026-03-14T05:37:22Z"
+        },
+        {
+          "name": "Set up Android SDK",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 4,
+          "started_at": "2026-03-14T05:37:22Z",
+          "completed_at": "2026-03-14T05:37:41Z"
+        },
+        {
+          "name": "Create secrets.properties",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 5,
+          "started_at": "2026-03-14T05:37:41Z",
+          "completed_at": "2026-03-14T05:37:41Z"
+        },
+        {
+          "name": "Grant execute permission for gradlew",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 6,
+          "started_at": "2026-03-14T05:37:41Z",
+          "completed_at": "2026-03-14T05:37:41Z"
+        },
+        {
+          "name": "Build Debug APK",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 7,
+          "started_at": "2026-03-14T05:37:41Z",
+          "completed_at": "2026-03-14T05:40:26Z"
+        },
+        {
+          "name": "Upload APK Artifact",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 8,
+          "started_at": "2026-03-14T05:40:26Z",
+          "completed_at": "2026-03-14T05:40:27Z"
+        },
+        {
+          "name": "Post Set up JDK 17",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 15,
+          "started_at": "2026-03-14T05:40:27Z",
+          "completed_at": "2026-03-14T05:40:34Z"
+        },
+        {
+          "name": "Post Checkout code",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 16,
+          "started_at": "2026-03-14T05:40:34Z",
+          "completed_at": "2026-03-14T05:40:34Z"
+        },
+        {
+          "name": "Complete job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 17,
+          "started_at": "2026-03-14T05:40:34Z",
+          "completed_at": "2026-03-14T05:40:35Z"
+        }
+      ],
+      "check_run_url": "https://api.github.com/repos/kousaryoukhainda-create/Earnings/check-runs/67051620677",
+      "labels": [
+        "ubuntu-latest"
+      ],
+      "runner_id": 1000000075,
+      "runner_name": "GitHub Actions 1000000075",
+      "runner_group_id": 0,
+      "runner_group_name": "GitHub Actions"
+    }
+  ]
+}
