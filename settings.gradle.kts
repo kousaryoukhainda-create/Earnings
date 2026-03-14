@@ -17,6 +17,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // Flutter artifacts
+        maven {
+            url = uri("https://storage.googleapis.com/download.flutter.io")
+        }
         // AppsFlyer - available on Maven Central
         // Additional repositories for ad SDKs (commented out due to access issues)
         // maven(url = "https://artifactory.applovin.com/artifactory/")
