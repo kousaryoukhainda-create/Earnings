@@ -87,14 +87,15 @@ android {
     }
 
     // Support for different screen sizes like the original
+    // Disabled for debug builds to generate single APK; enabled for release
     splits {
         density {
-            isEnable = true
+            isEnable = false
             reset()
             include("mdpi", "hdpi", "xhdpi", "xxhdpi", "xxxhdpi")
         }
         abi {
-            isEnable = true
+            isEnable = false
             reset()
             include("armeabi-v7a", "arm64-v8a", "x86", "x86_64")
             isUniversalApk = true
