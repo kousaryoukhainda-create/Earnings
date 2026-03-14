@@ -18,12 +18,12 @@ if (secretsFile.exists()) {
 
 android {
     namespace = "com.ykapps.earnings"
-    compileSdk = 35
+    compileSdk = 23
 
     defaultConfig {
         applicationId = "com.ykapps.earnings"
         minSdk = 23
-        targetSdk = 35
+        targetSdk = 23
         versionCode = 10
         versionName = "1.0.0"
 
@@ -60,12 +60,12 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
     }
 
     kotlinOptions {
-        jvmTarget = "17"
+        jvmTarget = "1.8"
     }
 
     // Flutter support
@@ -83,6 +83,10 @@ android {
             excludes += "/META-INF/LICENSE.txt"
             excludes += "/META-INF/NOTICE"
             excludes += "/META-INF/NOTICE.txt"
+        }
+        jniLibs {
+            // Keep all native libraries
+            useLegacyPackaging = true
         }
     }
 
