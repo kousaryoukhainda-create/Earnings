@@ -214,8 +214,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
-    // Flutter embedding - required for FlutterActivity (without Flutter Gradle Plugin)
-    implementation("dev.flutter:flutter_embedding:1.0.0-e672b1a9a2-20240101")
+    // Flutter embedding via JitPack (using flutter/packages repo)
+    implementation("com.github.flutter:flutter_embedding:master-SNAPSHOT")
 
     // Protobuf
     implementation("com.google.protobuf:protobuf-javalite:3.25.1")

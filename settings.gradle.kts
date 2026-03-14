@@ -17,9 +17,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        // Flutter artifacts
+        // Flutter artifacts via JitPack
         maven {
-            url = uri("https://storage.googleapis.com/download.flutter.io")
+            url = uri("https://jitpack.io")
         }
         // AppsFlyer - available on Maven Central
         // Additional repositories for ad SDKs (commented out due to access issues)
