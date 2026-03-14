@@ -1,0 +1,763 @@
+ into LoginDetails failed
+ into LoginDetails on EarnMoreScreen
+ into login details
+ into login details in referesh login details
+ into login response
+ into login response in verify email
+ into login response in verify email2
+ into login response in withdraw screen
+ into logins
+ into string (access token)
+ lastIdToken 
+ logins
+ logins 
+ tap here to add new login to your account
+, accessToken: 
+, anonymousLogin: 
+, authorizationCode: 
+, credential: 
+, credentials: 
+, currentAccessToken 
+, idToken: 
+, isAnonymousLogin: 
+, loginMethods: 
+, purchaseToken: 
+, refreshToken: 
+, showInitialLogin: 
+, syncedToLoginId: 
+, token: 
+/api/email-login
+/api/email-login-confirm
+/api/login
+/api/profile/logins/
+/api/profile/logout
+/api/profile/tokens
+/api/register
+:position_registers
+ADD_LOGIN
+Add login
+Add login screen footer explanation
+Add login screen title
+Add login so you don't lose your account if you get a new phone or your device breaks.
+Add login to secure your account
+Add login to stay safe
+AddLoginScreen
+App name displayed on login screen
+AppleAuthProvider
+AppleAuthProvider.
+Auth failed: 
+Auth#phoneCodeAutoRetrievalTimeout
+Auth#phoneCodeSent
+Auth#phoneVerificationCompleted
+Auth#phoneVerificationFailed
+AuthAction
+AuthAction.
+AuthCancelledException
+AuthController
+AuthControllerProvider
+AuthCredential
+AuthCredential(providerId: 
+AuthFailed
+AuthFlow
+AuthFlow.
+AuthFlowBuilder
+AuthListener
+AuthPigeonFirebaseApp
+AuthProvider
+AuthProvider(providerId: 
+AuthState
+AuthStateChangeAction
+AuthStateListener
+AuthStateProvider
+AuthStateTransition
+Authentication failed..
+AuthorizationStatus
+AuthorizationStatus.
+Button to add login credentials
+Button to add login method
+Button to add login method instead of logging out
+Button to cancel logout
+Button to confirm logout
+Button to confirm logout/deletion
+Button to skip login
+Cancel button for login method switch
+Cannot extract a non-Windows file path from a file URI with an authority
+CharactersToken
+CharactersToken.
+Clickable EULA link on login screen
+Clickable link to add login method
+Clickable privacy policy link on login screen
+Clickable terms link on login screen
+CommentToken
+CommentToken.
+Confirmation button for login method switch
+Continue Without Login?
+CredentialLinked
+CredentialReceived
+Dialog title asking user to confirm logout
+Dialog title for anonymous user logout warning
+Dialog title when switching login methods
+Do you want to disable offers for this session? Restarting the app will reactivate offers.
+DoctypeToken
+Educational disclaimer suffix on login screen
+Email login option link
+EmailAuthController
+EmailAuthCredential
+EmailAuthFlow
+EmailAuthFlow.
+EmailAuthListener
+EmailAuthProvider
+EndTagToken
+Error handling auth failure: 
+Error message when login fails
+Error message when user lacks login credentials
+Error when login already exists
+Error when login fails
+Error when user tries to withdraw without login
+Explanation discouraging logout and reminding of login methods
+Failed parsing into login response
+Failed parsing into logins
+Failed to add idtokenChangeListener
+Fallback text when login email is hidden or unknown
+Fazer login
+Fazer login com a Apple
+Fazer login com o Facebook
+Fazer login com o Google
+Fazer login com o Twitter
+Fetching attribution token failed
+FirebaseAppCheck#getToken
+FirebaseAppCheck#registerTokenListener
+FirebaseAuth
+FirebaseAuth(app: 
+FirebaseAuth._@668464419
+FirebaseAuth.instanceFor
+FirebaseAuthException
+FirebaseAuthHostApi
+FirebaseAuthMultiFactorException
+FirebaseAuthMultiFactorException._@668464419
+FirebaseAuthMultiFactorExceptionPlatform
+FirebaseAuthPlatform
+FirebaseAuthPlatform.
+FirebaseAuthPlatform.instanceFor
+FirebaseAuthUserHostApi
+FirebaseUIAuth
+GoogleAuthCredential
+GoogleAuthCredential._credential@984436200
+GoogleAuthProvider
+GoogleAuthProvider.
+GoogleSignInAuthentication
+GoogleSignInAuthentication:
+GoogleSignInTokenData
+HtmlTokenizer
+HtmlTokenizer.
+I understand that my progress may be lost if I lose access to this device or uninstall the app without adding a login method.
+INVALID_LOGIN_CREDENTIALS
+IdentifierToken
+If you log in using a different login method than the one you previously used, we won't sign you into your existing account you previously used on this device. Instead, we will either create a new account if there is no account linked to this login method or log you into the account associated with the new login method. Are you sure?
+It's not necessary to log out every time! Staying logged in keeps your experience seamless and saves you time. However, if you still wish to log out, remember you have signed in with following details: %loginDetails%
+Last used login method
+Legal agreement prefix on login screen
+LiteralToken
+Loading text during login process
+Login
+Login dengan Apple
+Login dengan Facebook
+Login dengan Google
+Login dengan Twitter
+Login failed.. Please try again..
+Login failed.. Try again later..
+Login screen title
+Login succesfully added
+Login to your account
+Login using your e-mail
+Login with email
+LoginDetails
+LoginDetails.fromJson
+LoginDetailsJsonDeserializerHelper
+LoginDetails{showAds: 
+LoginMessage
+LoginMessage.fromJson
+LoginMethod
+LoginMethod.fromJson
+LoginMethod{provider: 
+LoginResponse
+LoginResponse.fromJson
+LoginResponse{login: 
+LoginScreen
+LoginView
+LoginWithEmail
+Messaging#getToken
+Messaging#onTokenRefresh
+MethodChannelFirebaseAuth
+MethodChannelFirebaseAuth.
+MethodChannelFirebaseAuth._@990464887
+MethodChannelUserCredential
+MethodChannelUserCredential.
+MouseCursorSession
+MultiFactorSession
+New login method
+Notification prompting user to add login method
+OAuthButtonVariant
+OAuthButtonVariant.
+OAuthController
+OAuthCredential
+OAuthFlow
+OAuthFlow.
+OAuthListener
+OAuthProvider
+OAuthProvider.
+OAuthProviderButton
+OAuthProviderButtonBase
+OAuthProviderButtonStyle
+OAuthProviders
+Option to skip login
+ParseErrorToken
+Pastel tokens, low chroma palettes (32).
+PhoneAuthController
+PhoneAuthCredential
+PhoneAuthCredential._credential@986224542
+PhoneAuthCredential._credentialFromToken@986224542
+PhoneAuthFlow
+PhoneAuthFlow.
+PhoneAuthListener
+PhoneAuthProvider
+PigeonAuthCredential
+PigeonFirebaseAuthSettings
+PigeonIdTokenResult
+PigeonMultiFactorSession
+PigeonUserCredential
+PlatformConfigurationNativeApi::GetRootIsolateToken
+Register
+Register token received stringResponse for fcmToken 
+Registered 
+RegisteredElementWidget
+RootIsolateToken
+SecureSocket_RegisterBadCertificateCallback
+SecureSocket_RegisterHandshakeCompleteCallback
+Sign in failed. Please try again or use a different login method.
+Skip login confirmation dialog title
+Social proof text on login screen
+SpaceCharactersToken
+StartTagToken
+StartTagToken.
+StringToken
+StringToken.
+Success message after adding login
+TagToken
+Text separator between login options
+The authentication challenge sent by the server is not correctly formatted.
+ThemedOAuthProviderButtonStyle
+This email has been registered to multiple accounts. Choose below which account you would like to use.
+This happens when a plugin sends messages to the framework side before the framework has had an opportunity to register a listener. See the ChannelBuffers API documentation for details on how to configure the channel to expect more messages, or to expect messages to get discarded:
+Token
+TokenKind
+TokenParser
+TokenParserExtension|token
+Token[
+Tokenizer
+Tokenizer.
+TokenizerBase
+TokenizerHelpers
+TokenizerState
+Tokens and palettes match source color.
+Tooltip showing previously used login provider
+Unexpected end tag token (%(name)s) in the after body phase.
+Unexpected end tag token (%(name)s) in the frameset phase. Ignored.
+Unexpected end tag token (frameset) in the frameset phase (innerHTML).
+Unexpected start tag token (%(name)s in the select phase. Ignored.
+Unexpected start tag token (%(name)s) in the after body phase.
+Unexpected start tag token (%(name)s) in the frameset phase. Ignored.
+Unknown TOKEN
+UserCredential
+UserCredential(additionalUserInfo: 
+UserCredential._@668464419
+UserCredentialPlatform
+UserCredentialPlatform.
+Using in-app virtual currency, %tokenName%, you may purchase virtual beds, mattresses, pillows and blankets that all act as boost on earnings, when you end your sleeping session.
+Warning about data loss when skipping login
+Warning when switching login methods
+You are logged in anonymously, and you will not be able to sign back in. Add login method or type "%destroyString%" without quotations(") below and press confirm to delete account.
+You need to add a login before you can withdraw.
+Your login method is already associated with multiple logins, please select below which one you would want to use. If you just want to add login to this account, choose the one denoted as current
+_$LoginDetailsFromJson@558301329
+_$LoginDetailsToJson@558301329
+_$LoginMessageFromJson@608250477
+_$LoginMessageToJson@608250477
+_$LoginMethodFromJson@803418791
+_$LoginMethodToJson@803418791
+_$LoginResponseFromJson@671249822
+_$LoginResponseToJson@671249822
+_AddLoginScreenState@547178690
+_AddLoginScreenState@547178690.
+_AuthFlowBuilderState@1055345115
+_AuthenticationScheme.
+_AuthenticationScheme@16463476
+_AuthenticationScheme@16463476.fromString
+_Credentials@16463476
+_FirebaseAuthHostApiCodec@977223271
+_FirebaseAuthUserHostApiCodec@977223271
+_FlutterfireUIAuthActionsElement@1025243611
+_LoginScreenState@754508534
+_LoginScreenState@754508534.
+_LoginViewState@1052249602
+_NoopMouseCursorSession@396171781
+_OAuthProvider&AuthProvider&PlatformSignInMixin@676112970
+_OAuthProviderButtonBaseState@677156616
+_ProxyCredentials@16463476
+_RegisteredElement@1277318784
+_SiteCredentials@16463476
+_SystemMouseCursorSession@396171781
+__getRootIsolateToken@17065589
+_addToken@1164230995
+_anyWhiteSpaceBeforePeekToken@900134859
+_authStateChangesListeners@990464887
+_authenticate@16463476
+_buildOAuthButtons@1052249602
+_clientToken@688381795
+_deliverProduct: purchase token: 
+_deliverProduct: skipping delivery - accessToken: 
+_errorToken@900134859
+_findCredentials@16463476
+_findProxyCredentials@16463476
+_finishToken@900134859
+_firebaseAuthInstances@668464419
+_getRegisters
+_handleAuthStateChangesListener@990464887
+_handleDifferentAuthAction@1052249602
+_handleIdTokenChangesListener@990464887
+_httpOverridesToken@16463476
+_idTokenChangesListeners@990464887
+_instanceTokens@497304592
+_ioOverridesToken@15069316
+_isToken@16463476
+_isTokenChar@16463476
+_isValidToken@16463476
+_peekToken@900134859
+_register@160420462
+_register@236032539
+_register@272384654
+_registerBadCertificateCallback@15069316
+_registerCellOp@1144282418
+_registerDataHandler@5048458
+_registerDoneHandler@5048458
+_registerErrorHandler@5048458
+_registerGlobalKey@237042623
+_rootRegisterBinaryCallback@5048458
+_rootRegisterCallback@5048458
+_rootRegisterUnaryCallback@5048458
+_token@1000020068
+_token@1006004436
+_token@1014155526
+_token@1015111713
+_token@1019519225
+_token@1183466447
+_token@1205110083
+_token@1301348855
+_token@496513057
+_token@498043202
+_token@499436587
+_token@500184335
+_token@504045225
+_token@506332722
+_token@507265862
+_token@509391782
+_token@646483631
+_token@778396890
+_token@870271368
+_token@928502559
+_token@957397154
+_token@959394661
+_token@965124773V
+_token@978012075
+_token@979510659
+_token@980097300
+_token@981266184
+_tokenChangesListeners@964460372
+_tokenIsAppropriate@1164230995
+_tokenRE@692501537
+_tokenizeFieldValue@16463476
+_unregister@160420462
+_unregister@236032539
+_unregister@272384654
+_unregisterGlobalKey@237042623
+_unregisterLeader@344518307
+_writeAuthority@0150898
+`const Object()` cannot be used as the token.
+accessToken
+access_token
+addLogin
+addLogin response 
+addLoginMenuItem
+add_login
+add_login_confirm_tap
+add_login_errors
+add_login_hidden_at
+add_login_notification
+adding listener for idTokenChanges
+anonymous_login
+anonymous_logout_dialog
+app check token failed
+appCheckToken 
+app_check_token
+auth
+authChallenge
+authCredential
+authDomain
+authListener
+authorization
+authorizationStatus
+authorized
+calling loginDetailsChanges
+calling tryLogIn in handleFirebaseUser
+calling tryLogIn in initState
+calling tryLogIn in skipLogin
+calling tryLogIn in waitTilOnline
+confirmLoginTosIfRequired
+confirmLogout 
+confirmNewLoginMethod
+confirmNewLoginMethod: 
+consumeKeyboardToken
+continuationToken
+convertToOAuthProvider
+createSession
+credential
+credential-already-in-use
+credentialFromToken
+credentials
+defaultOnAuthError
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.registerAuthStateListener
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.registerIdTokenListener
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.signInWithCredential
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.signInWithProvider
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.signOut
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthHostApi.verifyPhoneNumber
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthUserHostApi.getIdToken
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthUserHostApi.linkWithCredential
+dev.flutter.pigeon.firebase_auth_platform_interface.FirebaseAuthUserHostApi.linkWithProvider
+dev.flutter.pigeon.firebase_auth_platform_interface.MultiFactoResolverHostApi.resolveSignIn
+dev.flutter.pigeon.google_sign_in_android.GoogleSignInApi.getAccessToken
+didRegisterListener
+didUnregisterListener
+didn't get id token
+emitCurrentToken
+ensureFrameCallbacksRegistered
+fetching idToken failed
+fetching token failed
+findCredentials
+firebase_auth
+firebase_id_token
+firebase_ui_oauth_apple
+firebase_ui_oauth_google
+forceCodeForRefreshToken
+forceResendingToken
+get:_shouldAuthenticate@16463476
+get:_shouldAuthenticateProxy@16463476
+get:auth
+get:authentication
+get:credentialAlreadyInUseErrorText
+get:currentDoctypeToken
+get:currentStringToken
+get:currentTagToken
+get:hasAuthority
+get:isAuthenticated
+get:onTokenRefresh
+get:refreshToken
+get:registerHintText
+get:registerText
+getAccessToken
+getAppCheckToken
+getAppCheckToken activated
+getAppCheckToken activating
+getAppCheckToken appCheckToken: 
+getFyberSecurityToken
+getIdToken
+getInterstitialMinSessionTime
+getToken
+getTokenDataFromMap
+getTokens
+hasAccessToken: 
+idToken
+idTokenChanges
+init:_authStateChangesListeners@990464887
+init:_firebaseAuthInstances@668464419
+init:_httpOverridesToken@16463476
+init:_idTokenChangesListeners@990464887
+init:_instanceTokens@497304592
+init:_ioOverridesToken@15069316
+init:_token@1000020068
+init:_token@1006004436
+init:_token@1014155526
+init:_token@1015111713
+init:_token@1019519225
+init:_token@1183466447
+init:_token@1205110083
+init:_token@1301348855
+init:_token@496513057
+init:_token@498043202
+init:_token@499436587
+init:_token@500184335
+init:_token@504045225
+init:_token@506332722
+init:_token@507265862
+init:_token@509391782
+init:_token@646483631
+init:_token@778396890
+init:_token@870271368
+init:_token@928502559
+init:_token@957397154
+init:_token@959394661
+init:_token@965124773
+init:_token@978012075
+init:_token@979510659
+init:_token@980097300
+init:_token@981266184
+init:_tokenChangesListeners@964460372
+init:_tokenRE@692501537
+init:addLoginMenuItem
+init:loginDetails
+init:loginMessages
+init:logoutMenuItem
+init:methodChannelFirebaseAuthInstances
+init:nonToken
+init:notificationAuthorizationStatus
+init:offersDisabledForSession
+init:selectedLoginId
+init:token
+init:tokenStreamController
+interstitial: _shouldLoadInterstitial() - SKIP: session only 
+interstitial: _shouldLoadInterstitial() - no session start time recorded
+interstitial: _shouldLoadInterstitial() - session time check passed: 
+interstitial: _shouldShowInterstitial() - SKIP: session only 
+interstitial: _shouldShowInterstitial() - no session start time recorded
+interstitial: _shouldShowInterstitial() - session time check passed: 
+interstitial: loginDetailsListener - called
+interstitial_min_session_time
+lastUsedLoginMethodHighlight
+last_sent_server_fcm_token
+linkWithCredential
+loadMessages without login
+loadMiningEvent without login
+logOut
+logOutFirebasel
+logOutGoogle
+login
+login statusCode 
+loginDetails
+loginDetailsChanged
+loginId
+loginMessages
+loginRequiresConfirmation
+login_agreement
+login_apple_attempt
+login_confirmation_dialog
+login_details
+login_email_tap
+login_eula_tap
+login_google_attempt
+login_id
+login_methods
+login_options_text
+login_privacy_tap
+login_req_confirm
+login_requires_confirmation
+login_screen
+login_terms_tap
+login_tos_accepted
+logoutMenuItem
+logoutOnUnauthorized
+logout_confirm_dialog
+maybeRegisterChildOp
+methodChannelFirebaseAuthInstances
+modifyLoginDetails
+multiFactorSessionId
+nameToken
+new_login_method_dialog
+no access token
+no_login
+nonToken
+notificationAuthorizationStatus(
+offersDisabledForSession
+onCredentialLinked
+onCredentialReceived
+onTokenRefresh listen failed
+package:crypto_stuff/add_login_screen.dart
+package:crypto_stuff/login_details.dart
+package:crypto_stuff/login_details.g.dart
+package:crypto_stuff/login_message.dart
+package:crypto_stuff/login_message.g.dart
+package:crypto_stuff/login_method.dart
+package:crypto_stuff/login_method.g.dart
+package:crypto_stuff/login_response.dart
+package:crypto_stuff/login_response.g.dart
+package:crypto_stuff/login_screen.dart
+package:csslib/src/token.dart
+package:csslib/src/token_kind.dart
+package:csslib/src/tokenizer.dart
+package:csslib/src/tokenizer_base.dart
+package:firebase_auth/firebase_auth.dart
+package:firebase_auth/src/firebase_auth.dart
+package:firebase_auth/src/multi_factor.dart
+package:firebase_auth/src/user.dart
+package:firebase_auth/src/user_credential.dart
+package:firebase_auth_platform_interface/src/additional_user_info.dart
+package:firebase_auth_platform_interface/src/auth_credential.dart
+package:firebase_auth_platform_interface/src/auth_provider.dart
+package:firebase_auth_platform_interface/src/firebase_auth_exception.dart
+package:firebase_auth_platform_interface/src/firebase_auth_multi_factor_exception.dart
+package:firebase_auth_platform_interface/src/method_channel/method_channel_firebase_auth.dart
+package:firebase_auth_platform_interface/src/method_channel/method_channel_multi_factor.dart
+package:firebase_auth_platform_interface/src/method_channel/method_channel_user.dart
+package:firebase_auth_platform_interface/src/method_channel/method_channel_user_credential.dart
+package:firebase_auth_platform_interface/src/method_channel/utils/convert_auth_provider.dart
+package:firebase_auth_platform_interface/src/method_channel/utils/exception.dart
+package:firebase_auth_platform_interface/src/method_channel/utils/pigeon_helper.dart
+package:firebase_auth_platform_interface/src/pigeon/messages.pigeon.dart
+package:firebase_auth_platform_interface/src/platform_interface/platform_interface_firebase_auth.dart
+package:firebase_auth_platform_interface/src/platform_interface/platform_interface_multi_factor.dart
+package:firebase_auth_platform_interface/src/platform_interface/platform_interface_user.dart
+package:firebase_auth_platform_interface/src/platform_interface/platform_interface_user_credential.dart
+package:firebase_auth_platform_interface/src/providers/apple_auth.dart
+package:firebase_auth_platform_interface/src/providers/email_auth.dart
+package:firebase_auth_platform_interface/src/providers/google_auth.dart
+package:firebase_auth_platform_interface/src/providers/oauth.dart
+package:firebase_auth_platform_interface/src/providers/phone_auth.dart
+package:firebase_auth_platform_interface/src/user_info.dart
+package:firebase_auth_platform_interface/src/user_metadata.dartp
+package:firebase_ui_auth/firebase_ui_auth.dart
+package:firebase_ui_auth/src/actions.dart
+package:firebase_ui_auth/src/auth_controller.dart
+package:firebase_ui_auth/src/auth_flow.dart
+package:firebase_ui_auth/src/auth_state.dart
+package:firebase_ui_auth/src/flows/email_flow.dart
+package:firebase_ui_auth/src/flows/oauth_flow.dart
+package:firebase_ui_auth/src/flows/phone_auth_flow.dart
+package:firebase_ui_auth/src/flows/universal_email_sign_in_flow.dart
+package:firebase_ui_auth/src/mfa.dart
+package:firebase_ui_auth/src/oauth_providers.dart
+package:firebase_ui_auth/src/providers/auth_provider.dart
+package:firebase_ui_auth/src/providers/email_auth_provider.dart
+package:firebase_ui_auth/src/providers/phone_auth_provider.dart
+package:firebase_ui_auth/src/providers/universal_email_sign_in_provider.dart
+package:firebase_ui_auth/src/screens/internal/login_screen.dart
+package:firebase_ui_auth/src/screens/internal/multi_provider_screen.dart
+package:firebase_ui_auth/src/screens/internal/responsive_page.dart
+package:firebase_ui_auth/src/screens/sign_in_screen.dart
+package:firebase_ui_auth/src/screens/sms_code_input_screen.dart
+package:firebase_ui_auth/src/styling/style.dart
+package:firebase_ui_auth/src/styling/theme.dart
+package:firebase_ui_auth/src/views/login_view.dart
+package:firebase_ui_auth/src/views/sms_code_input_view.dart
+package:firebase_ui_auth/src/widgets/auth_flow_builder.dart
+package:firebase_ui_auth/src/widgets/email_form.dart
+package:firebase_ui_auth/src/widgets/error_text.dart
+package:firebase_ui_auth/src/widgets/internal/keyboard_appearence_listener.dart
+package:firebase_ui_auth/src/widgets/internal/oauth_provider_button.dart
+package:firebase_ui_auth/src/widgets/internal/title.dart
+package:firebase_ui_auth/src/widgets/internal/universal_page_route.dart
+package:firebase_ui_auth/src/widgets/internal/universal_text_form_field.dart
+package:firebase_ui_auth/src/widgets/layout_flow_aware_padding.dart
+package:firebase_ui_auth/src/widgets/sms_code_input.dart
+package:firebase_ui_oauth/src/oauth_provider.dart
+package:firebase_ui_oauth/src/oauth_provider_button_base.dart
+package:firebase_ui_oauth/src/oauth_provider_button_style.dart
+package:firebase_ui_oauth/src/platform_oauth_sign_in.dart
+package:firebase_ui_oauth_apple/src/provider.dart
+package:firebase_ui_oauth_apple/src/theme.dart
+package:firebase_ui_oauth_google/src/provider.dart
+package:firebase_ui_oauth_google/src/theme.dart
+package:html/src/token.dart
+package:html/src/tokenizer.dart
+package:petitparser/src/core/token.dart
+package:petitparser/src/parser/action/token.dart
+platformExceptionToFirebaseAuthException
+plugins.flutter.io/firebase_auth
+promptAppleLogin
+promptAppleLogin threw
+promptGoogleLogin
+promptGoogleLogin threw
+proxy-authenticate
+proxy-authorization
+purchaseToken
+purchase_token
+refreshLoginDetails
+refreshLoginDetails Received stringResponse 
+refreshLoginDetails Unable to fetch login details
+refreshLoginDetails failed
+refreshToken
+refreshingLoginDetails
+register
+registerAuthStateListener
+registerBackgroundMessageHandler
+registerBadCertificateCallback
+registerBinaryCallback
+registerBlockOp
+registerCallback
+registerCurrentMessagingToken
+registerCurrentMessagingToken failed
+registerFirstAppStartIfNeeded
+registerForRestoration
+registerGlobalHandlers
+registerHandshakeCompleteCallback
+registerIdTokenListener
+registerMessagingToken
+registerNotificationPermissions
+registerPlatform
+registerScribbleElement
+registerSizingOp
+registerTapRegion
+registerUnaryCallback
+registerWith
+registering broadcast stream on fyber
+registering token failed
+requestAuthentication
+requireLogin
+requires login, but no login exists2
+returnTokens
+securityToken
+selectedLoginId
+serverAuthCode
+sessionTimeout
+session_start
+session_start_with_rollout
+set:authListener
+setAccessToken
+setAddLoginHiddenAt
+setCurrentLoginMessages
+setLoginDetails
+setServerFCMToken
+shouldRecoverAuth
+showInitialLogin
+showInitialLogin: 
+showLoginConfirmationDialog
+showSkipLoginConfirmationDialog
+show_initial_login
+signInWithCredential
+sinceLastLoginMs: 
+skipLogin
+skip_login
+skip_login_confirmed
+skip_login_dialog
+synced_to_login_id
+token
+tokenName
+tokenStreamController
+tried login -
+tryLogInInternal
+tryLogIn^
+tryLogin 
+trying login
+trying to login
+unregister
+unregisterScribbleElement
+unregisterTapRegion
+user_add_login_anonymous
+user_add_login_anonymous_failure
+user_add_login_anonymous_list
+user_add_login_anonymous_success
+verifyToken
+waitForTrackingAuthorizationWithTimeoutInterval
+whenAuthenticated
+withdraw_login_warning
+www-authenticate
+x-access-token`
+{"help":{"root":{"children":{"How the app works":{"help_url":"https://cloudminecrypto.com/learn/how-to-start-bitcoin-mining","help_text":"Please read carefully through the article, as it will guide you through how our Bitcoin mining platform works.","help_button":"Open article","children":{"What algorithm you use to mine?":"SHA256 is the algorithm used to mine Bitcoin","How the app works?":"Purchase or redeem free contract and mining starts automatically. You can withdraw your earnings anytime","Can I withdraw without purchasing?":"Of course! :)"}},"Withdrawing Bitcoin":{"help_url":"https://cloudminecrypto.com/learn/how-to-withdraw-bitcoins-in-cloudminecrypto-bitcoin-cloud-mining-app","help_text":"Please read carefully through the help article, as it will guide you through the withdrawal process and help you correctly withdraw your Bitcoins.","help_button":"Open article","children":{"Unable to withdraw":{"children":{"Balance below minimum":"Please ensure your account balance is above the minimum withdrawal amount which you can see in help and withdraw screen.\n\nWe suggest you to use Lightning Network for cheapest Bitcoin transfers","Where to get address":"You need to get the address from either any exchange or personal Bitcoin wallet you can download. Please read the above help article, and it will guide you through this."}},"Received wrong amount":"Every withdraw network has a withdrawal fee, and it will be deducted from your withdrawal amount and is listed in both help and withdraw screens. Please also ensure both your Bitcoin wallet you are withdrawing to and our app have the same display units to avoid confusion. You can edit withdraw units in wallet screen by tapping 'format'"}},"Mining earnings":{"help_url":"https://cloudminecrypto.com/learn/how-much-bitcoin-will-i-earn","help_text":"Please read carefully through the help article, as it will guide you through the process of how much you will mine.","help_button":"Open article","children":{"How much will I mine?":"Read the above article, and it will guide you through determining this","I mined fewer Bitcoins than I expected":"Read the above article, and it will guide you through determining this"}},"Login problems / Earnings gone":{"help_url":"https://cloudminecrypto.com/learn/my-earnings-have-disappeared-after-logging-in","help_text":"Please read carefully through the help article, as it will help you with login problems.","help_button":"Open article","children":{"Unable to login to old account":"Did you login using the same login method? Log out and try again with different method","My earnings are gone":"Did you reset your device, or log out? You need to log in back to the same account as before to access your old earnings."}},"Ads / Rewards not working":{"help_url":"https://cloudminecrypto.com/learn/earn-bitcoin-by-watching-ads-in-cloudminecrypto-bitcoin-cloud-mining-app","help_text":"Please read carefully through the help article, as it will help you with problems regarding ads or rewarded contracts.","help_button":"Open article","children":{"Ads are not loading":"Are you connected to internet? Did you watch many ads in row? The ads may just temporary be unavailable for you. The help article provides guide for this, so read it carefully.","My reward contracts are decreasing":"The rewarded contracts last for 24 hours, after that they expire."}},"Email verification":"Tap the link on the e-mail you received. Remember to check spam folder.","Other":"Please verify you have chosen the correct category, or we will not be able to help you correctly."}}},"referral_apps":[],"dont_show_offer_wall":false,"minimum_withdrawal_in_nanos":22000000000000,"withdrawal_fee":11000000000000,"items":[{"id":"OoQ4mRkYlqVEZ130","sleep_depth":3,"sleep_comfort":3,"dream_quality":3,"item_slot":1,"image_path":"bronze_bed.png","title":"Bronze Bed","price":100},{"id":"Waz0r3J5MJQPZEV1","sleep_depth":6,"sleep_comfort":6,"dream_quality":6,"item_slot":1,"image_path":"silver_bed.png","title":"Silver Bed","price":300},{"id":"dV4ex9jyDJG52vbg","sleep_depth":10,"sleep_comfort":10,"dream_quality":10,"item_slot":1,"image_path":"gold_bed.png","title":"Gold Bed","price":1000},{"id":"7xKyLYkr5qQWRVE6","sleep_depth":3,"sleep_comfort":3,"dream_quality":3,"item_slot":2,"image_path":"bronze_mattress.png","title":"Bronze Mattress","price":100},{"id":"0QnEgOJNGjZamzxv","sleep_depth":6,"sleep_comfort":6,"dream_quality":6,"item_slot":2,"image_path":"silver_mattress.png","title":"Silver Mattress","price":300},{"id":"nQNEZlJ10koA09d7","sleep_depth":10,"sleep_comfort":10,"dream_quality":10,"item_slot":2,"image_path":"gold_mattress.png","title":"Gold Mattress","price":1000},{"id":"ebQXPDj9zq0RV6Yw","sleep_depth":3,"sleep_comfort":3,"dream_quality":3,"item_slot":3,"image_path":"bronze_pillow.png","title":"Bronze Pillow","price":100},{"id":"6ZXxRNqQPj8zmQ7D","sleep_depth":6,"sleep_comfort":6,"dream_quality":6,"item_slot":3,"image_path":"silver_pillow.png","title":"Silver Pillow","price":300},{"id":"ro2wX1kAWjO5L894","sleep_depth":10,"sleep_comfort":10,"dream_quality":10,"item_slot":3,"image_path":"gold_pillow.png","title":"Gold Pillow","price":1000},{"id":"bEDax8jVlklZd190","sleep_depth":3,"sleep_comfort":3,"dream_quality":3,"item_slot":4,"image_path":"bronze_blanket.png","title":"Bronze Blanket","price":100},{"id":"9d7OmYqvOk5nz2yN","sleep_depth":6,"sleep_comfort":6,"dream_quality":6,"item_slot":4,"image_path":"silver_blanket.png","title":"Silver Blanket","price":300},{"id":"8oPe1DkzNkWA625w","sleep_depth":10,"sleep_comfort":10,"dream_quality":10,"item_slot":4,"image_path":"gold_blanket.png","title":"Gold Blanket","price":1000}],"max_stat_per_slot":40,"native_payments":true,"contract_reload_interval":10,"promotion":null,"free_mining_hashrate":4067395.729910079,"rewarded_mining_hashrate":6507833.167856127,"network_hashrate":694363718862000000,"block_reward":3.125,"follow_links":{"Telegram":"https://cloudminecrypto.com/tg/"},"transfer_networks":[{"id":"ln","name":"Bitcoin Lightning","fee":5,"wallet":"ZBD","wallet_url":"https://zbd.gg","address_examples":["cloudminecrypto@walletofsatoshi.com","lnbc1pjex9h7pp5nv2p6gurn8ghj7amp...","lnurl1dp68gurn8ghj7ampd3kx2ar0ve..."],"address_name":"Lightning Address / Lightning Invoice","max_withdraw":4000,"min_withdraw":10},{"id":"btc","name":"Bitcoin Blockchain","fee":6250,"wallet":"Bitcoin.org official recommendation","wallet_url":"https://bitcoin.org/en/choose-your-wallet?step=1","address_examples":["1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2","bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq","bc1p5cyxnuxmeuwuvkwfem96lqzp4j3zrhgem7w3h2"],"address_name":null,"max_withdraw":null,"min_withdraw":12500},{"id":"bnb","name":"Binance Smart Chain (BEP-20)","fee":1506,"wallet":"Metamask","wallet_url":"https://metamask.io/","address_examples":["0x123abc456def789ghi012jkl345mno678pqr901s","0x987zyx654wvu321tsr210qpo098nml567kji432f"],"address_name":null,"max_withdraw":null,"min_withdraw":3012}]}

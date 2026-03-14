@@ -214,8 +214,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
-    // Flutter embedding via JitPack (using flutter/packages repo)
-    implementation("com.github.flutter:flutter_embedding:master-SNAPSHOT")
+    // Flutter embedding - native libs only (libflutter.so and libapp.so in jniLibs/)
+    // No Gradle plugin needed - native libs are pre-compiled
 
     // Protobuf
     implementation("com.google.protobuf:protobuf-javalite:3.25.1")
